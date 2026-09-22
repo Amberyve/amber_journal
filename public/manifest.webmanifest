@@ -1,0 +1,17 @@
+{
+  "name": "Sip. Smile. Shine.",
+  "short_name": "Sip Smile Shine",
+  "description": "A twelve-week guided journal for stress, gratitude and small beginnings.",
+  "start_url": "/journal",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#33422A",
+  "theme_color": "#28331F",
+  "categories": ["lifestyle", "health"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
